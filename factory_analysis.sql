@@ -1,6 +1,5 @@
 /*
 Progetto: SQL Factory Data Challenge
-Autore: Giulia Pinzauti
 Descrizione: Analisi della qualità dei componenti industriali 
              tramite CTE e aggregazione dati.
              Esercizio svolto per il percorso di apprendimento SQL su Coddy Tech.
